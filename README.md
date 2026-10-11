@@ -6,9 +6,7 @@ This project predicts where a particle hits a sensor, as an (x, y) point, from t
 
 ## About this project
 
-This was my **first coding project**. I took this course in my first semester of the master's. Before that, my background was in **product design**, and I had never written code.
-
-I finished it with **one of the highest marks in the class**.
+This was my **first coding project**. I took this course in my first semester of the master's. Before that, my background was in **Product Design**, and I had never written code.
 
 ---
 
