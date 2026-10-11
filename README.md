@@ -1,9 +1,6 @@
 # Particle Position with Random Forest
 
-This project predicts **where a particle hits a sensor**, as an (x, y) point, from the signals the sensor records.
-
-It was the final project of the **Data Science Lab** course at **Politecnico di Torino** (Winter 2024).
-Author: **A R**.
+This project predicts **where a particle hits a sensor**, as an (x, y) point, from the signals the sensor records. It was the final project of the **Data Science Lab** course at **Politecnico di Torino** (Winter 2024).
 
 ---
 
